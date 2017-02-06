@@ -20,13 +20,10 @@ Command line 指令操作 [Command Line指令](https://www.renfei.org/blog/mac-o
 # Gulp + php server 開發專案
 
 ### 環境建置  
-<br />
 npm i  
 bower i
-
-### 執行專案
 <br />
-
+### 執行專案
 c: projectName > gulp   (run static )  
 c: projectName > gulp online (run dync php )  
 
